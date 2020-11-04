@@ -1,2 +1,3 @@
-# evprediction
-Energy and Resources 131 final project, Fall 2020
+# ER 131 Final Project
+Ciara Dorsay, Samay Garg, Rohit Rungta
+
